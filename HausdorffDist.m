@@ -250,12 +250,3 @@ if nargin==4 && any(strcmpi({'v','vis','visual','visualize','visualization'},dv)
         'edgecolor','w','linewidth',2);
     
 end
-
-
-
-
-
-
-
-
-
